@@ -14,18 +14,18 @@ All three inputs should be > 0
 Output Format:
 print the calculated simple interest. The result should be rounded to two decimals.
 
-Sample Input 0
+Sample Input :
 
 10000
 12
 3
-Sample Output 0
+Sample Output :
 
 3600.00
+
 Submissions: 104
 Max Score: 5
 Difficulty: Medium
-Rate This Challenge:
 
 */
  
